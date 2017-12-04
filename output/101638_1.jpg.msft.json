@@ -1,0 +1,102 @@
+{
+    "adult": {
+        "adultScore": 0.17594383656978607,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.25344303250312805
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "name": "people_",
+            "score": 0.4140625
+        },
+        {
+            "name": "people_portrait",
+            "score": 0.4453125
+        }
+    ],
+    "color": {
+        "accentColor": "2F2F28",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.750335386851337,
+                "text": "a man wearing a black dress"
+            }
+        ],
+        "tags": [
+            "person",
+            "man",
+            "photo",
+            "black",
+            "standing",
+            "holding",
+            "suit",
+            "looking",
+            "posing",
+            "young",
+            "white",
+            "wearing",
+            "boy",
+            "front",
+            "woman",
+            "dress",
+            "hair",
+            "mirror",
+            "suitcase",
+            "phone",
+            "cat",
+            "playing",
+            "laying"
+        ]
+    },
+    "faces": [
+        {
+            "age": 56,
+            "faceRectangle": {
+                "height": 77,
+                "left": 205,
+                "top": 67,
+                "width": 77
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 416
+    },
+    "requestId": "9251d1ae-4d9c-485d-9a3c-71a098fe5d25",
+    "response_time": 1.9639790058135986,
+    "tags": [
+        {
+            "confidence": 0.9988166093826294,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9561457633972168,
+            "name": "man"
+        },
+        {
+            "confidence": 0.37870854139328003,
+            "name": "posing"
+        }
+    ]
+}

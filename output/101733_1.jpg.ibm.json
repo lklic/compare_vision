@@ -1,0 +1,45 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "burial chamber",
+                            "score": 0.944,
+                            "type_hierarchy": "/enclosure/burial chamber"
+                        },
+                        {
+                            "class": "enclosure",
+                            "score": 0.988
+                        },
+                        {
+                            "class": "recess",
+                            "score": 0.557,
+                            "type_hierarchy": "/enclosure/recess"
+                        },
+                        {
+                            "class": "mausoleum",
+                            "score": 0.5,
+                            "type_hierarchy": "/enclosure/mausoleum"
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.788
+                        },
+                        {
+                            "class": "sage green color",
+                            "score": 0.541
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101733_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3530058860778809
+}

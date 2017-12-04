@@ -1,0 +1,93 @@
+{
+    "adult": {
+        "adultScore": 0.1594826579093933,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.11035731434822083
+    },
+    "categories": [
+        {
+            "name": "object_sculpture",
+            "score": 0.73828125
+        }
+    ],
+    "color": {
+        "accentColor": "6C695F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.753131370864533,
+                "text": "a vintage photo of a girl"
+            }
+        ],
+        "tags": [
+            "photo",
+            "indoor",
+            "person",
+            "building",
+            "white",
+            "old",
+            "sitting",
+            "black",
+            "girl",
+            "vintage",
+            "man",
+            "small",
+            "group",
+            "holding",
+            "standing",
+            "woman",
+            "people",
+            "room",
+            "kitchen",
+            "table",
+            "bed",
+            "umbrella"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 916,
+        "width": 768
+    },
+    "requestId": "13ebccf3-fa49-4dcb-b73d-a657580bc920",
+    "response_time": 2.3360469341278076,
+    "tags": [
+        {
+            "confidence": 0.8793113827705383,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.8760237693786621,
+            "name": "person"
+        },
+        {
+            "confidence": 0.7797039747238159,
+            "name": "white"
+        },
+        {
+            "confidence": 0.5119754672050476,
+            "name": "old"
+        },
+        {
+            "confidence": 0.33609217405319214,
+            "name": "vintage"
+        },
+        {
+            "confidence": 0.10489736497402191,
+            "name": "altar"
+        }
+    ]
+}

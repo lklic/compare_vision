@@ -1,0 +1,86 @@
+{
+    "adult": {
+        "adultScore": 0.04274551197886467,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.030249938368797302
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.04296875
+        },
+        {
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "666863",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7542790271582641,
+                "text": "a painting of a man"
+            }
+        ],
+        "tags": [
+            "photo",
+            "building",
+            "old",
+            "white",
+            "room",
+            "black",
+            "graffiti",
+            "man",
+            "covered",
+            "painting",
+            "painted",
+            "board",
+            "refrigerator",
+            "people"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 768,
+        "width": 943
+    },
+    "requestId": "d7c5835a-f058-44b5-bf8a-8a6a74ae8ea1",
+    "response_time": 1.8651518821716309,
+    "tags": [
+        {
+            "confidence": 0.8903749585151672,
+            "name": "gallery"
+        },
+        {
+            "confidence": 0.651214599609375,
+            "name": "old"
+        },
+        {
+            "confidence": 0.4215441048145294,
+            "name": "room"
+        },
+        {
+            "confidence": 0.2211529016494751,
+            "name": "painting"
+        },
+        {
+            "confidence": 0.046150658279657364,
+            "name": "stone"
+        }
+    ]
+}

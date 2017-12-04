@@ -1,0 +1,62 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.10767364501953,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.10765838623047,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.10767364501953,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 90.26435852050781,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 90.26435852050781,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 90.26435852050781,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 60.22078323364258,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 52.646934509277344,
+            "Name": "Graffiti"
+        },
+        {
+            "Confidence": 51.04383087158203,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 51.04383087158203,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 50.60245895385742,
+            "Name": "Modern Art"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "589",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:16:18 GMT",
+            "x-amzn-requestid": "bfeffe18-d940-11e7-b193-cb97068bb402"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "bfeffe18-d940-11e7-b193-cb97068bb402",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.1788041591644287
+}

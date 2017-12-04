@@ -1,0 +1,105 @@
+{
+    "adult": {
+        "adultScore": 0.035006288439035416,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.019674107432365417
+    },
+    "categories": [
+        {
+            "name": "object_sculpture",
+            "score": 0.60546875
+        }
+    ],
+    "color": {
+        "accentColor": "766855",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6551813053766556,
+                "text": "a vintage photo of person holding a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "photo",
+            "book",
+            "black",
+            "old",
+            "man",
+            "white",
+            "vintage",
+            "posing",
+            "sitting",
+            "woman",
+            "holding",
+            "boy",
+            "young",
+            "standing",
+            "riding",
+            "people"
+        ]
+    },
+    "faces": [
+        {
+            "age": 31,
+            "faceRectangle": {
+                "height": 75,
+                "left": 297,
+                "top": 133,
+                "width": 75
+            },
+            "gender": "Male"
+        },
+        {
+            "age": 31,
+            "faceRectangle": {
+                "height": 36,
+                "left": 513,
+                "top": 111,
+                "width": 36
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 716
+    },
+    "requestId": "e2564f2b-33a7-4657-9412-4fe662cf6e51",
+    "response_time": 2.541409969329834,
+    "tags": [
+        {
+            "confidence": 0.9919552206993103,
+            "name": "text"
+        },
+        {
+            "confidence": 0.7577868700027466,
+            "name": "black"
+        },
+        {
+            "confidence": 0.6780428886413574,
+            "name": "old"
+        },
+        {
+            "confidence": 0.3482867181301117,
+            "name": "vintage"
+        },
+        {
+            "confidence": 0.33723151683807373,
+            "name": "image"
+        }
+    ]
+}

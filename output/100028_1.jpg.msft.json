@@ -1,0 +1,112 @@
+{
+    "adult": {
+        "adultScore": 0.022694852203130722,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.021096348762512207
+    },
+    "categories": [
+        {
+            "name": "object_sculpture",
+            "score": 0.60546875
+        }
+    ],
+    "color": {
+        "accentColor": "786D53",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8578692917437245,
+                "text": "a vintage photo of a group of people posing for the camera"
+            }
+        ],
+        "tags": [
+            "text",
+            "photo",
+            "book",
+            "old",
+            "black",
+            "window",
+            "vintage",
+            "posing",
+            "white",
+            "woman",
+            "boy",
+            "holding",
+            "sitting",
+            "man",
+            "young",
+            "people",
+            "standing",
+            "train",
+            "player",
+            "group"
+        ]
+    },
+    "faces": [
+        {
+            "age": 30,
+            "faceRectangle": {
+                "height": 101,
+                "left": 430,
+                "top": 155,
+                "width": 101
+            },
+            "gender": "Male"
+        },
+        {
+            "age": 34,
+            "faceRectangle": {
+                "height": 57,
+                "left": 323,
+                "top": 274,
+                "width": 57
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 768,
+        "width": 992
+    },
+    "requestId": "ac03909a-1491-4d2e-93e5-98f18bc5825b",
+    "response_time": 2.693979024887085,
+    "tags": [
+        {
+            "confidence": 0.9988719820976257,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9794449210166931,
+            "name": "book"
+        },
+        {
+            "confidence": 0.9525774121284485,
+            "name": "old"
+        },
+        {
+            "confidence": 0.9322566986083984,
+            "name": "black"
+        },
+        {
+            "confidence": 0.6165115833282471,
+            "name": "vintage"
+        },
+        {
+            "confidence": 0.5973365306854248,
+            "name": "posing"
+        }
+    ]
+}

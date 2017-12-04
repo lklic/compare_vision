@@ -1,0 +1,30 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.98
+                        },
+                        {
+                            "class": "alabaster color",
+                            "score": 0.896
+                        },
+                        {
+                            "class": "black color",
+                            "score": 0.891
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/100024_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3507161140441895
+}

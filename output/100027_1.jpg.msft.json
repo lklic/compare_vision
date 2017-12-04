@@ -1,0 +1,116 @@
+{
+    "adult": {
+        "adultScore": 0.013462875969707966,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02070493996143341
+    },
+    "categories": [
+        {
+            "name": "people_group",
+            "score": 0.24609375
+        }
+    ],
+    "color": {
+        "accentColor": "786A53",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8459166804135243,
+                "text": "a vintage photo of a group of people posing for the camera"
+            }
+        ],
+        "tags": [
+            "text",
+            "photo",
+            "book",
+            "black",
+            "old",
+            "posing",
+            "white",
+            "vintage",
+            "man",
+            "woman",
+            "standing",
+            "holding",
+            "people",
+            "player",
+            "boy",
+            "sitting",
+            "young",
+            "group",
+            "baseball",
+            "skiing"
+        ]
+    },
+    "faces": [
+        {
+            "age": 28,
+            "faceRectangle": {
+                "height": 100,
+                "left": 418,
+                "top": 160,
+                "width": 100
+            },
+            "gender": "Female"
+        },
+        {
+            "age": 34,
+            "faceRectangle": {
+                "height": 56,
+                "left": 315,
+                "top": 278,
+                "width": 56
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 768,
+        "width": 968
+    },
+    "requestId": "422fdc6b-26d6-4552-827c-7419319eca94",
+    "response_time": 2.7112081050872803,
+    "tags": [
+        {
+            "confidence": 0.9987826943397522,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9659442901611328,
+            "name": "book"
+        },
+        {
+            "confidence": 0.9074600338935852,
+            "name": "black"
+        },
+        {
+            "confidence": 0.9039623737335205,
+            "name": "old"
+        },
+        {
+            "confidence": 0.7564235925674438,
+            "name": "posing"
+        },
+        {
+            "confidence": 0.6573492884635925,
+            "name": "white"
+        },
+        {
+            "confidence": 0.5651187300682068,
+            "name": "vintage"
+        }
+    ]
+}

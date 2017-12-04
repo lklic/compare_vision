@@ -1,0 +1,47 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "silverpoint",
+                            "score": 0.902
+                        },
+                        {
+                            "class": "death camp",
+                            "score": 0.561,
+                            "type_hierarchy": "/building/institution/death camp"
+                        },
+                        {
+                            "class": "institution",
+                            "score": 0.561
+                        },
+                        {
+                            "class": "building",
+                            "score": 0.561
+                        },
+                        {
+                            "class": "study",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.922
+                        },
+                        {
+                            "class": "black color",
+                            "score": 0.872
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101613_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 3.023324966430664
+}

@@ -1,0 +1,42 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.208984375,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.20890808105469,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.208984375,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 96.45738983154297,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 96.45738983154297,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 96.45738983154297,
+            "Name": "Sketch"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "328",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:16:46 GMT",
+            "x-amzn-requestid": "cfcccfa5-d940-11e7-89fd-05f2051c25b1"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "cfcccfa5-d940-11e7-89fd-05f2051c25b1",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.394158124923706
+}

@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.967
+                        },
+                        {
+                            "class": "art gallery",
+                            "score": 0.5,
+                            "type_hierarchy": "/room/art gallery"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "black color",
+                            "score": 0.67
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.603
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/100023_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.514937162399292
+}

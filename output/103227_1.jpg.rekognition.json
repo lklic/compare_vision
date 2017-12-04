@@ -1,0 +1,38 @@
+{
+    "Labels": [
+        {
+            "Confidence": 85.2913818359375,
+            "Name": "Arch"
+        },
+        {
+            "Confidence": 85.2913818359375,
+            "Name": "Arched"
+        },
+        {
+            "Confidence": 85.2913818359375,
+            "Name": "Architecture"
+        },
+        {
+            "Confidence": 85.2913818359375,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 54.3718147277832,
+            "Name": "Gate"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "291",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:35:50 GMT",
+            "x-amzn-requestid": "79d9ea6f-d943-11e7-8f87-f990cf76c40c"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "79d9ea6f-d943-11e7-8f87-f990cf76c40c",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.3089752197265625
+}

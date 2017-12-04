@@ -1,0 +1,58 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.26081848144531,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.26081848144531,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.26081848144531,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 73.5214614868164,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 53.14299392700195,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 53.14299392700195,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 52.2044677734375,
+            "Name": "Apostle"
+        },
+        {
+            "Confidence": 51.91572952270508,
+            "Name": "Angel"
+        },
+        {
+            "Confidence": 51.91572952270508,
+            "Name": "Archangel"
+        },
+        {
+            "Confidence": 51.91572952270508,
+            "Name": "Worship"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "535",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:31:52 GMT",
+            "x-amzn-requestid": "ecd6d2aa-d942-11e7-9c94-f1458d06af25"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "ecd6d2aa-d942-11e7-9c94-f1458d06af25",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.7905158996582031
+}

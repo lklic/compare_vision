@@ -20,9 +20,9 @@
       <div class="row">
         <div class="twelve columns">
 
-        <h2>Cloudy Vision Output</h2>
+        <h2>Villa I Tatti Photo Archive</h2>
         <p>
-            Cloudy Vision is a tool to help compare computer vision API vendors. <a href="https://goberoi.com/comparing-the-top-five-computer-vision-apis-98e3e3d7c647">See this blog post</a> and the <a href="https://github.com/goberoi/cloudy_vision">Github page</a> for details.
+            A comparison of image taging from various vendors, for the VIT Photo Archive collection, forked from <a href="https://github.com/goberoi/cloudy_vision">here</a>
         </p>
 
         <h4>Results Summary</h4>
@@ -42,7 +42,7 @@
     {% for image_result in image_results %}
     <div class="row">
 
-      <div class="three columns image">
+      <div class="five columns image">
         <h2 class="image_name">{{ image_result['output_image_filepath'] }}</h2>
         {% if image_result['image_tags']|length > 0 %}
         <h2 class="image_name">desired_tags:
@@ -57,11 +57,11 @@
         </h2>
         {% endif %}
         <a href="../{{ image_result['input_image_filepath'] }}">
-          <img class="u-max-full-width" src='{{ image_result['output_image_filepath'] }}'>
+          <img class="u-max-full-width" src='../{{ image_result['input_image_filepath'] }}'>
         </a>
       </div>
 
-      <div class="eight columns result">
+      <div class="six columns result">
 
         <table class="u-full-width">
         {% for vendor in image_result['vendors'] %}

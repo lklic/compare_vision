@@ -1,0 +1,58 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.3019790649414,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.3019790649414,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.3019790649414,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 63.06843566894531,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 63.06843566894531,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 52.381919860839844,
+            "Name": "Autograph"
+        },
+        {
+            "Confidence": 52.381919860839844,
+            "Name": "Handwriting"
+        },
+        {
+            "Confidence": 52.381919860839844,
+            "Name": "Signature"
+        },
+        {
+            "Confidence": 52.381919860839844,
+            "Name": "Text"
+        },
+        {
+            "Confidence": 51.290584564208984,
+            "Name": "Art"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "544",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:34:06 GMT",
+            "x-amzn-requestid": "3c44fe36-d943-11e7-8a1d-d161fd07a545"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "3c44fe36-d943-11e7-8a1d-d161fd07a545",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.284043788909912
+}

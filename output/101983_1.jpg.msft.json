@@ -1,0 +1,103 @@
+{
+    "adult": {
+        "adultScore": 0.077263243496418,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.036026403307914734
+    },
+    "categories": [
+        {
+            "name": "people_",
+            "score": 0.3828125
+        }
+    ],
+    "color": {
+        "accentColor": "746857",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8769884611238435,
+                "text": "a woman standing in front of a mirror posing for the camera"
+            }
+        ],
+        "tags": [
+            "person",
+            "building",
+            "photo",
+            "standing",
+            "woman",
+            "white",
+            "old",
+            "black",
+            "holding",
+            "wearing",
+            "young",
+            "posing",
+            "front",
+            "dress",
+            "man",
+            "cellphone",
+            "girl",
+            "phone",
+            "train",
+            "mirror",
+            "boy",
+            "umbrella",
+            "hat",
+            "shirt",
+            "people"
+        ]
+    },
+    "faces": [
+        {
+            "age": 28,
+            "faceRectangle": {
+                "height": 69,
+                "left": 186,
+                "top": 117,
+                "width": 69
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 463
+    },
+    "requestId": "08ad7414-7a2b-4ac5-a735-8a64bdb9456a",
+    "response_time": 2.0732898712158203,
+    "tags": [
+        {
+            "confidence": 0.9626465439796448,
+            "name": "person"
+        },
+        {
+            "confidence": 0.8106318712234497,
+            "name": "standing"
+        },
+        {
+            "confidence": 0.6486974954605103,
+            "name": "white"
+        },
+        {
+            "confidence": 0.6479372978210449,
+            "name": "old"
+        },
+        {
+            "confidence": 0.5344135165214539,
+            "name": "vestment"
+        }
+    ]
+}

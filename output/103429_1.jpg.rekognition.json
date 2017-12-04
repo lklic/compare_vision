@@ -1,0 +1,46 @@
+{
+    "Labels": [
+        {
+            "Confidence": 80.17805480957031,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 80.17805480957031,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 80.17805480957031,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 63.34987258911133,
+            "Name": "Atlas"
+        },
+        {
+            "Confidence": 63.34987258911133,
+            "Name": "Diagram"
+        },
+        {
+            "Confidence": 63.34987258911133,
+            "Name": "Map"
+        },
+        {
+            "Confidence": 57.68106460571289,
+            "Name": "Paper"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "384",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:33:35 GMT",
+            "x-amzn-requestid": "29b651ac-d943-11e7-b885-c35173bb6aa8"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "29b651ac-d943-11e7-b885-c35173bb6aa8",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.05658221244812
+}

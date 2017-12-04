@@ -1,0 +1,85 @@
+{
+    "adult": {
+        "adultScore": 0.0567057803273201,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.040687572211027145
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.87890625
+        }
+    ],
+    "color": {
+        "accentColor": "70695B",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5471986488991408,
+                "text": "a group of people posing for a photo"
+            }
+        ],
+        "tags": [
+            "photo",
+            "thing",
+            "old",
+            "box",
+            "posing",
+            "white",
+            "sitting",
+            "black",
+            "man",
+            "wooden",
+            "bed",
+            "table",
+            "group",
+            "bench",
+            "filled",
+            "people",
+            "covered",
+            "standing",
+            "woman",
+            "young",
+            "train",
+            "room",
+            "snow",
+            "bedroom",
+            "luggage"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1001,
+        "width": 768
+    },
+    "requestId": "489db39a-e404-4997-8475-8475c2fbaef1",
+    "response_time": 2.4896130561828613,
+    "tags": [
+        {
+            "confidence": 0.6073455810546875,
+            "name": "old"
+        },
+        {
+            "confidence": 0.4828730523586273,
+            "name": "box"
+        },
+        {
+            "confidence": 0.4054502248764038,
+            "name": "posing"
+        }
+    ]
+}

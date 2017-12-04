@@ -1,0 +1,70 @@
+{
+    "Labels": [
+        {
+            "Confidence": 78.05084228515625,
+            "Name": "Dollar"
+        },
+        {
+            "Confidence": 78.05084228515625,
+            "Name": "Money"
+        },
+        {
+            "Confidence": 76.60696411132812,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 63.992393493652344,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 59.28838348388672,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 57.94607925415039,
+            "Name": "Coin"
+        },
+        {
+            "Confidence": 54.828758239746094,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 54.828758239746094,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 54.828758239746094,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 54.828758239746094,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 54.50916290283203,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 54.50916290283203,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 51.319480895996094,
+            "Name": "Lace"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "686",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:19:00 GMT",
+            "x-amzn-requestid": "207a0a5f-d941-11e7-9457-970c195ddba1"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "207a0a5f-d941-11e7-9457-970c195ddba1",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.269832134246826
+}

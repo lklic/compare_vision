@@ -1,0 +1,65 @@
+{
+    "response_time": 1.307060956954956,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "photograph",
+                    "mid": "/m/068jd",
+                    "score": 0.9477397
+                },
+                {
+                    "description": "history",
+                    "mid": "/m/03g3w",
+                    "score": 0.82286686
+                },
+                {
+                    "description": "art",
+                    "mid": "/m/0jjw",
+                    "score": 0.7951878
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.7695695
+                },
+                {
+                    "description": "sculpture",
+                    "mid": "/m/06msq",
+                    "score": 0.6593694
+                },
+                {
+                    "description": "picture frame",
+                    "mid": "/m/06z37_",
+                    "score": 0.5958137
+                },
+                {
+                    "description": "artwork",
+                    "mid": "/m/0dgsmq8",
+                    "score": 0.5857095
+                },
+                {
+                    "description": "ancient history",
+                    "mid": "/m/0djmp",
+                    "score": 0.5663769
+                },
+                {
+                    "description": "relief",
+                    "mid": "/m/02nnps",
+                    "score": 0.5489432
+                },
+                {
+                    "description": "stock photography",
+                    "mid": "/m/036jvk",
+                    "score": 0.5396313
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

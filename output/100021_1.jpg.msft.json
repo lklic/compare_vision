@@ -1,0 +1,91 @@
+{
+    "adult": {
+        "adultScore": 0.02358493208885193,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.021280037239193916
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.046875
+        }
+    ],
+    "color": {
+        "accentColor": "856D46",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8578565479327366,
+                "text": "a vintage photo of person"
+            }
+        ],
+        "tags": [
+            "photo",
+            "text",
+            "book",
+            "indoor",
+            "black",
+            "old",
+            "sitting",
+            "painting",
+            "hanging",
+            "white",
+            "top",
+            "vintage",
+            "woman",
+            "clock",
+            "man",
+            "room"
+        ]
+    },
+    "faces": [
+        {
+            "age": 25,
+            "faceRectangle": {
+                "height": 61,
+                "left": 406,
+                "top": 287,
+                "width": 61
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 686
+    },
+    "requestId": "b45271cb-443d-4b7b-8f93-2972d2cd2dd5",
+    "response_time": 1.8367228507995605,
+    "tags": [
+        {
+            "confidence": 0.9757177829742432,
+            "name": "text"
+        },
+        {
+            "confidence": 0.4511801302433014,
+            "name": "old"
+        },
+        {
+            "confidence": 0.30600637197494507,
+            "name": "painting"
+        },
+        {
+            "confidence": 0.11438557505607605,
+            "name": "picture frame"
+        }
+    ]
+}

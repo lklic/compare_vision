@@ -1,0 +1,34 @@
+{
+    "Labels": [
+        {
+            "Confidence": 62.41145324707031,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 62.41145324707031,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 62.41145324707031,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 57.49140930175781,
+            "Name": "Paper"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "240",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:18:14 GMT",
+            "x-amzn-requestid": "04320cc0-d941-11e7-8e51-17840fe612a3"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "04320cc0-d941-11e7-8e51-17840fe612a3",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.589798927307129
+}

@@ -1,0 +1,40 @@
+{
+    "response_time": 1.21738600730896,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "map",
+                    "mid": "/m/04_tb",
+                    "score": 0.75543207
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.72994256
+                },
+                {
+                    "description": "history",
+                    "mid": "/m/03g3w",
+                    "score": 0.6610501
+                },
+                {
+                    "description": "artwork",
+                    "mid": "/m/0dgsmq8",
+                    "score": 0.6142664
+                },
+                {
+                    "description": "picture frame",
+                    "mid": "/m/06z37_",
+                    "score": 0.5772662
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

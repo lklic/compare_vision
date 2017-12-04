@@ -1,0 +1,94 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.07219696044922,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.07218170166016,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.07219696044922,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 86.80018615722656,
+            "Name": "Crucifix"
+        },
+        {
+            "Confidence": 86.80018615722656,
+            "Name": "Emblem"
+        },
+        {
+            "Confidence": 53.85661697387695,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 53.62820053100586,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 53.62820053100586,
+            "Name": "Sculpture"
+        },
+        {
+            "Confidence": 53.254638671875,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 53.254638671875,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 52.01947784423828,
+            "Name": "Angel"
+        },
+        {
+            "Confidence": 52.01947784423828,
+            "Name": "Archangel"
+        },
+        {
+            "Confidence": 52.01947784423828,
+            "Name": "Worship"
+        },
+        {
+            "Confidence": 51.96149826049805,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 51.96149826049805,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 51.96149826049805,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 51.74482345581055,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 51.74482345581055,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 51.433837890625,
+            "Name": "Apostle"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "982",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:30:23 GMT",
+            "x-amzn-requestid": "b745bfe6-d942-11e7-b778-b9e22db1320d"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "b745bfe6-d942-11e7-b778-b9e22db1320d",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.683917999267578
+}

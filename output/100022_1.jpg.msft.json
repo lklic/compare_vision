@@ -1,0 +1,90 @@
+{
+    "adult": {
+        "adultScore": 0.010460141114890575,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.012791217304766178
+    },
+    "categories": [
+        {
+            "name": "building_doorwindows",
+            "score": 0.109375
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "text_",
+            "score": 0.32421875
+        }
+    ],
+    "color": {
+        "accentColor": "736958",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8311585513268392,
+                "text": "a vintage photo of an old building"
+            }
+        ],
+        "tags": [
+            "photo",
+            "old",
+            "building",
+            "black",
+            "white",
+            "vintage",
+            "standing",
+            "man",
+            "covered",
+            "posing",
+            "filled",
+            "room",
+            "people",
+            "train",
+            "graffiti",
+            "snow",
+            "drawn",
+            "group",
+            "riding"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 745,
+        "width": 1024
+    },
+    "requestId": "35d4bc9c-d0b7-4bdf-a0e6-56e01431b1f0",
+    "response_time": 1.7202181816101074,
+    "tags": [
+        {
+            "confidence": 0.9809314608573914,
+            "name": "old"
+        },
+        {
+            "confidence": 0.8573509454727173,
+            "name": "black"
+        },
+        {
+            "confidence": 0.7710837125778198,
+            "name": "white"
+        },
+        {
+            "confidence": 0.43528369069099426,
+            "name": "vintage"
+        }
+    ]
+}

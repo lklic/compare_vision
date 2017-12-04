@@ -1,0 +1,65 @@
+{
+    "response_time": 1.3535130023956299,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.8026769
+                },
+                {
+                    "description": "art",
+                    "mid": "/m/0jjw",
+                    "score": 0.7923185
+                },
+                {
+                    "description": "picture frame",
+                    "mid": "/m/06z37_",
+                    "score": 0.6495733
+                },
+                {
+                    "description": "visual arts",
+                    "mid": "/m/0p9xx",
+                    "score": 0.617044
+                },
+                {
+                    "description": "artwork",
+                    "mid": "/m/0dgsmq8",
+                    "score": 0.61424917
+                },
+                {
+                    "description": "painting",
+                    "mid": "/m/05qdh",
+                    "score": 0.6128945
+                },
+                {
+                    "description": "watercolor paint",
+                    "mid": "/m/018ktp",
+                    "score": 0.56201035
+                },
+                {
+                    "description": "drawing",
+                    "mid": "/m/02csf",
+                    "score": 0.5552749
+                },
+                {
+                    "description": "stock photography",
+                    "mid": "/m/036jvk",
+                    "score": 0.5312259
+                },
+                {
+                    "description": "monochrome",
+                    "mid": "/m/01mwkf",
+                    "score": 0.5085806
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

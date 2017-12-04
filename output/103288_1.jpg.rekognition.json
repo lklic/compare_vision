@@ -1,0 +1,74 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.26103973388672,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.26103973388672,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.26103973388672,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 79.02483367919922,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 79.02483367919922,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 79.02483367919922,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 62.84995651245117,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 60.42692565917969,
+            "Name": "Autograph"
+        },
+        {
+            "Confidence": 60.42692565917969,
+            "Name": "Handwriting"
+        },
+        {
+            "Confidence": 60.42692565917969,
+            "Name": "Signature"
+        },
+        {
+            "Confidence": 60.42692565917969,
+            "Name": "Text"
+        },
+        {
+            "Confidence": 52.96980285644531,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 51.319461822509766,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 51.319461822509766,
+            "Name": "Flyer"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "741",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:28:53 GMT",
+            "x-amzn-requestid": "81546557-d942-11e7-ae1a-f7577bd75aba"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "81546557-d942-11e7-ae1a-f7577bd75aba",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.4770829677581787
+}

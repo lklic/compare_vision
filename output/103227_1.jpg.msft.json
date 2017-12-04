@@ -1,0 +1,77 @@
+{
+    "adult": {
+        "adultScore": 0.0066048698499798775,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.009453289210796356
+    },
+    "categories": [
+        {
+            "name": "building_doorwindows",
+            "score": 0.375
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "786953",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7616434471684969,
+                "text": "a black and white photo of a building"
+            }
+        ],
+        "tags": [
+            "building",
+            "white",
+            "photo",
+            "black",
+            "sitting",
+            "door",
+            "old",
+            "side",
+            "bench",
+            "large",
+            "wooden",
+            "room",
+            "standing",
+            "clock"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 758
+    },
+    "requestId": "c013f482-67cc-4e5e-97bd-eee72426088a",
+    "response_time": 1.855238914489746,
+    "tags": [
+        {
+            "confidence": 0.8168356418609619,
+            "name": "white"
+        },
+        {
+            "confidence": 0.7689764499664307,
+            "name": "black"
+        },
+        {
+            "confidence": 0.4140215516090393,
+            "name": "arch"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.46173858642578,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 97.46173858642578,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 97.46173858642578,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 53.27665328979492,
+            "Name": "Angel"
+        },
+        {
+            "Confidence": 53.27665328979492,
+            "Name": "Archangel"
+        },
+        {
+            "Confidence": 53.27665328979492,
+            "Name": "Worship"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "342",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:15:53 GMT",
+            "x-amzn-requestid": "b179e79c-d940-11e7-b885-c35173bb6aa8"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "b179e79c-d940-11e7-b885-c35173bb6aa8",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.28837513923645
+}

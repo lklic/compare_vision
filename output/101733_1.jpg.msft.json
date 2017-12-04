@@ -1,0 +1,85 @@
+{
+    "adult": {
+        "adultScore": 0.016412606462836266,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.014114941470324993
+    },
+    "categories": [
+        {
+            "name": "building_doorwindows",
+            "score": 0.1484375
+        }
+    ],
+    "color": {
+        "accentColor": "6C6860",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8294656726180811,
+                "text": "a vintage photo of an old building"
+            }
+        ],
+        "tags": [
+            "photo",
+            "old",
+            "indoor",
+            "white",
+            "building",
+            "sitting",
+            "room",
+            "table",
+            "black",
+            "covered",
+            "vintage",
+            "bench",
+            "wooden",
+            "many",
+            "stone",
+            "man",
+            "bedroom"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 697
+    },
+    "requestId": "f6625120-431f-461d-b4cc-d18fc4f70c49",
+    "response_time": 1.9757189750671387,
+    "tags": [
+        {
+            "confidence": 0.8928645253181458,
+            "name": "old"
+        },
+        {
+            "confidence": 0.7159916162490845,
+            "name": "white"
+        },
+        {
+            "confidence": 0.4468682110309601,
+            "name": "arch"
+        },
+        {
+            "confidence": 0.34904518723487854,
+            "name": "altar"
+        },
+        {
+            "confidence": 0.08803007006645203,
+            "name": "stone"
+        }
+    ]
+}

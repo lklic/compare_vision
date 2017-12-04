@@ -1,0 +1,90 @@
+{
+    "adult": {
+        "adultScore": 0.4288971424102783,
+        "isAdultContent": false,
+        "isRacyContent": true,
+        "racyScore": 0.49414780735969543
+    },
+    "categories": [
+        {
+            "name": "object_sculpture",
+            "score": 0.75390625
+        }
+    ],
+    "color": {
+        "accentColor": "666666",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4606286167063422,
+                "text": "a man holding a baby"
+            }
+        ],
+        "tags": [
+            "text",
+            "photo",
+            "person",
+            "man",
+            "sitting",
+            "posing",
+            "baby",
+            "black",
+            "cat",
+            "white",
+            "holding",
+            "woman",
+            "laying",
+            "top",
+            "old",
+            "bed",
+            "young",
+            "bear",
+            "group",
+            "stuffed",
+            "sheep",
+            "dog",
+            "playing"
+        ]
+    },
+    "faces": [
+        {
+            "age": 32,
+            "faceRectangle": {
+                "height": 106,
+                "left": 381,
+                "top": 351,
+                "width": 106
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1008,
+        "width": 768
+    },
+    "requestId": "728d0bc8-1638-4e5f-b67a-33985df317a0",
+    "response_time": 2.1802501678466797,
+    "tags": [
+        {
+            "confidence": 0.9178182482719421,
+            "name": "text"
+        },
+        {
+            "confidence": 0.4187775254249573,
+            "name": "posing"
+        }
+    ]
+}

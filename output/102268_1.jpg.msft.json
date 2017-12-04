@@ -1,0 +1,89 @@
+{
+    "adult": {
+        "adultScore": 0.022316331043839455,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.028328176587820053
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.21484375
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "413C30",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5403728896057448,
+                "text": "a group of people standing next to a body of water"
+            }
+        ],
+        "tags": [
+            "photo",
+            "water",
+            "white",
+            "standing",
+            "old",
+            "bird",
+            "group",
+            "sitting",
+            "different",
+            "beach",
+            "people",
+            "man",
+            "black",
+            "table",
+            "body",
+            "boat",
+            "surfing",
+            "cat",
+            "flock",
+            "sheep",
+            "ocean",
+            "field",
+            "vase",
+            "river",
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 768,
+        "width": 945
+    },
+    "requestId": "973992cd-0091-4d20-92d1-14ed8739920a",
+    "response_time": 2.455145835876465,
+    "tags": [
+        {
+            "confidence": 0.4177019000053406,
+            "name": "old"
+        },
+        {
+            "confidence": 0.3467545509338379,
+            "name": "different"
+        }
+    ]
+}

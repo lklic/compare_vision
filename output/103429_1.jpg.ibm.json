@@ -1,0 +1,44 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Art Studio",
+                            "score": 0.787,
+                            "type_hierarchy": "/room/Art Studio"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.94
+                        },
+                        {
+                            "class": "art gallery",
+                            "score": 0.721,
+                            "type_hierarchy": "/room/art gallery"
+                        },
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.708
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.838
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.618
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/103429_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3559298515319824
+}

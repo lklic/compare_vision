@@ -1,0 +1,78 @@
+{
+    "adult": {
+        "adultScore": 0.21429012715816498,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.1888861060142517
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.20703125
+        },
+        {
+            "name": "abstract_shape",
+            "score": 0.11328125
+        },
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "726759",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8776370000587341,
+                "text": "a vintage photo of a man"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "photo",
+            "old",
+            "black",
+            "white",
+            "man",
+            "vintage",
+            "wearing",
+            "standing",
+            "holding"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 989,
+        "width": 768
+    },
+    "requestId": "43715b09-d44b-4bac-a188-5947c19ebbb8",
+    "response_time": 2.17634916305542,
+    "tags": [
+        {
+            "confidence": 0.9965664148330688,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9665056467056274,
+            "name": "book"
+        },
+        {
+            "confidence": 0.8209319710731506,
+            "name": "old"
+        }
+    ]
+}

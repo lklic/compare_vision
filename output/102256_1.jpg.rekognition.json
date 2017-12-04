@@ -1,0 +1,78 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.94589233398438,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.94586944580078,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.94589233398438,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 96.16683959960938,
+            "Name": "Baby"
+        },
+        {
+            "Confidence": 96.16683959960938,
+            "Name": "Child"
+        },
+        {
+            "Confidence": 96.16683959960938,
+            "Name": "Kid"
+        },
+        {
+            "Confidence": 96.16683959960938,
+            "Name": "Newborn"
+        },
+        {
+            "Confidence": 78.61101531982422,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 78.61101531982422,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 69.7914810180664,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 64.37260437011719,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 64.37260437011719,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 50.944488525390625,
+            "Name": "Angel"
+        },
+        {
+            "Confidence": 50.944488525390625,
+            "Name": "Archangel"
+        },
+        {
+            "Confidence": 50.944488525390625,
+            "Name": "Worship"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "781",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:30:55 GMT",
+            "x-amzn-requestid": "c9fed7be-d942-11e7-a988-9928f4663042"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "c9fed7be-d942-11e7-a988-9928f4663042",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.6811420917510986
+}

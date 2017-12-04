@@ -1,0 +1,58 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "octagon",
+                            "score": 0.859,
+                            "type_hierarchy": "/figure/polygon/octagon"
+                        },
+                        {
+                            "class": "polygon",
+                            "score": 0.859
+                        },
+                        {
+                            "class": "figure",
+                            "score": 0.859
+                        },
+                        {
+                            "class": "snuffbox",
+                            "score": 0.605,
+                            "type_hierarchy": "/box/snuffbox"
+                        },
+                        {
+                            "class": "box",
+                            "score": 0.606
+                        },
+                        {
+                            "class": "tray",
+                            "score": 0.678,
+                            "type_hierarchy": "/utensil/tray"
+                        },
+                        {
+                            "class": "utensil",
+                            "score": 0.678
+                        },
+                        {
+                            "class": "salver (plate)",
+                            "score": 0.5,
+                            "type_hierarchy": "/utensil/tray/salver (plate)"
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.782
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101753_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.365851879119873
+}

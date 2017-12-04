@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.873
+                        },
+                        {
+                            "class": "multi panel pictures/art",
+                            "score": 0.742
+                        },
+                        {
+                            "class": "door",
+                            "score": 0.5,
+                            "type_hierarchy": "/room/door"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.845
+                        },
+                        {
+                            "class": "sage green color",
+                            "score": 0.744
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101607_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3762199878692627
+}

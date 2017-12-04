@@ -1,0 +1,100 @@
+{
+    "adult": {
+        "adultScore": 0.021982816979289055,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.04816455394029617
+    },
+    "categories": [
+        {
+            "name": "abstract_shape",
+            "score": 0.18359375
+        },
+        {
+            "name": "others_",
+            "score": 0.09375
+        },
+        {
+            "name": "object_sculpture",
+            "score": 0.640625
+        }
+    ],
+    "color": {
+        "accentColor": "3C382F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7423967297546,
+                "text": "person standing in front of a mirror posing for the camera"
+            }
+        ],
+        "tags": [
+            "photo",
+            "person",
+            "man",
+            "mirror",
+            "black",
+            "woman",
+            "girl",
+            "front",
+            "sitting",
+            "white",
+            "old",
+            "posing",
+            "holding",
+            "standing",
+            "young",
+            "people"
+        ]
+    },
+    "faces": [
+        {
+            "age": 21,
+            "faceRectangle": {
+                "height": 62,
+                "left": 283,
+                "top": 254,
+                "width": 62
+            },
+            "gender": "Female"
+        },
+        {
+            "age": 1,
+            "faceRectangle": {
+                "height": 56,
+                "left": 237,
+                "top": 395,
+                "width": 56
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 943,
+        "width": 768
+    },
+    "requestId": "3adc4a71-c221-492c-8ba7-ca771caa262e",
+    "response_time": 2.682413101196289,
+    "tags": [
+        {
+            "confidence": 0.8525184988975525,
+            "name": "person"
+        },
+        {
+            "confidence": 0.3063669502735138,
+            "name": "image"
+        }
+    ]
+}

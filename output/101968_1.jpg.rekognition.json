@@ -1,0 +1,86 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.05742645263672,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.05740356445312,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.05742645263672,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 93.73246765136719,
+            "Name": "Architecture"
+        },
+        {
+            "Confidence": 93.73246765136719,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 93.73246765136719,
+            "Name": "Column"
+        },
+        {
+            "Confidence": 93.73246765136719,
+            "Name": "Pillar"
+        },
+        {
+            "Confidence": 79.22142791748047,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 79.22142791748047,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 79.22142791748047,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 61.58438491821289,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 61.58438491821289,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 54.52211380004883,
+            "Name": "Cathedral"
+        },
+        {
+            "Confidence": 54.52211380004883,
+            "Name": "Church"
+        },
+        {
+            "Confidence": 54.52211380004883,
+            "Name": "Worship"
+        },
+        {
+            "Confidence": 51.824623107910156,
+            "Name": "Angel"
+        },
+        {
+            "Confidence": 51.824623107910156,
+            "Name": "Archangel"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "897",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:35:18 GMT",
+            "x-amzn-requestid": "6677e8b6-d943-11e7-bc8b-b5212ca10f5a"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "6677e8b6-d943-11e7-bc8b-b5212ca10f5a",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.3696091175079346
+}

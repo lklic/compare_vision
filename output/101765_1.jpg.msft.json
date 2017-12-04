@@ -1,0 +1,98 @@
+{
+    "adult": {
+        "adultScore": 0.042929038405418396,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.08197081089019775
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.16015625
+        },
+        {
+            "name": "abstract_rect",
+            "score": 0.66015625
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "756C56",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.887527567504436,
+                "text": "a vintage photo of person"
+            }
+        ],
+        "tags": [
+            "building",
+            "book",
+            "text",
+            "old",
+            "photo",
+            "black",
+            "man",
+            "white",
+            "woman",
+            "vintage",
+            "posing",
+            "sitting",
+            "standing",
+            "holding",
+            "front",
+            "bench",
+            "people",
+            "street",
+            "umbrella"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 768,
+        "width": 1011
+    },
+    "requestId": "8876755f-a5bd-49e2-9d66-b034fdd285a1",
+    "response_time": 2.0691590309143066,
+    "tags": [
+        {
+            "confidence": 0.9844239354133606,
+            "name": "book"
+        },
+        {
+            "confidence": 0.9740455746650696,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9441477060317993,
+            "name": "old"
+        },
+        {
+            "confidence": 0.7361227869987488,
+            "name": "black"
+        },
+        {
+            "confidence": 0.5293887853622437,
+            "name": "vintage"
+        },
+        {
+            "confidence": 0.378500759601593,
+            "name": "posing"
+        }
+    ]
+}

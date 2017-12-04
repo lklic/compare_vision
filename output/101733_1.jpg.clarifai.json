@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-12-04T22:28:49.722564314Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_FWCjC8jZ",
+                        "name": "architecture",
+                        "value": 0.9769672
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JBPqff8z",
+                        "name": "art",
+                        "value": 0.9619347
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GTvMbVGh",
+                        "name": "ancient",
+                        "value": 0.9454776
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_3G3b1XP2",
+                        "name": "sculpture",
+                        "value": 0.94407403
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_358VqvJT",
+                        "name": "religion",
+                        "value": 0.9358355
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.9328695
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_rsX6XWc2",
+                        "name": "building",
+                        "value": 0.92243314
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Hs0lPf2C",
+                        "name": "stone",
+                        "value": 0.9193007
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9132993
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_V0Cr7DH5",
+                        "name": "engraving",
+                        "value": 0.9098848
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VRmbGVWh",
+                        "name": "travel",
+                        "value": 0.9078989
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_f8jM3DlV",
+                        "name": "relief",
+                        "value": 0.8841797
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_S0rvLGPz",
+                        "name": "old",
+                        "value": 0.87229633
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_djRqCRT8",
+                        "name": "culture",
+                        "value": 0.85646564
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_SVshtN54",
+                        "name": "one",
+                        "value": 0.8534365
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_MKSwLDhD",
+                        "name": "print",
+                        "value": 0.8478667
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dxSG2s86",
+                        "name": "man",
+                        "value": 0.83242065
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_KJZC1RDL",
+                        "name": "antique",
+                        "value": 0.8292495
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_qBlV5RGS",
+                        "name": "marble",
+                        "value": 0.82529163
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7ClxMGPb",
+                        "name": "monument",
+                        "value": 0.8247583
+                    }
+                ]
+            },
+            "id": "c484f8dfd990479a8789d06c7f571aa2",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d3622bd03dd84b6aa6b3e216d3e5bcd2/a67b94fa57bd4aaab455483c535cee8a"
+                    }
+                },
+                "id": "f17922c6c421401bb06873b2da5448eb"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 2.1916019916534424,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

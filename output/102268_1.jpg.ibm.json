@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "passe-partout (frame)",
+                            "score": 0.778,
+                            "type_hierarchy": "/supporting structure/framework/passe-partout (frame)"
+                        },
+                        {
+                            "class": "framework",
+                            "score": 0.778
+                        },
+                        {
+                            "class": "supporting structure",
+                            "score": 0.778
+                        },
+                        {
+                            "class": "silverpoint",
+                            "score": 0.768
+                        },
+                        {
+                            "class": "art gallery",
+                            "score": 0.513,
+                            "type_hierarchy": "/room/art gallery"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "study",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.936
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/102268_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.350782871246338
+}

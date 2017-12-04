@@ -1,0 +1,44 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.587
+                        },
+                        {
+                            "class": "person",
+                            "score": 0.78
+                        },
+                        {
+                            "class": "biographer",
+                            "score": 0.501,
+                            "type_hierarchy": "/person/biographer"
+                        },
+                        {
+                            "class": "art gallery",
+                            "score": 0.5,
+                            "type_hierarchy": "/room/art gallery"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "black color",
+                            "score": 0.992
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101644_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4297659397125244
+}

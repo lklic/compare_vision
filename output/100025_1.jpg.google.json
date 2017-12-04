@@ -1,0 +1,65 @@
+{
+    "response_time": 1.3643059730529785,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "art",
+                    "mid": "/m/0jjw",
+                    "score": 0.90280885
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.7424049
+                },
+                {
+                    "description": "history",
+                    "mid": "/m/03g3w",
+                    "score": 0.71897143
+                },
+                {
+                    "description": "picture frame",
+                    "mid": "/m/06z37_",
+                    "score": 0.6734522
+                },
+                {
+                    "description": "vintage clothing",
+                    "mid": "/m/08v4gh",
+                    "score": 0.6108523
+                },
+                {
+                    "description": "visual arts",
+                    "mid": "/m/0p9xx",
+                    "score": 0.5853854
+                },
+                {
+                    "description": "painting",
+                    "mid": "/m/05qdh",
+                    "score": 0.58353764
+                },
+                {
+                    "description": "modern art",
+                    "mid": "/m/015r61",
+                    "score": 0.556193
+                },
+                {
+                    "description": "antique",
+                    "mid": "/m/01ys2s",
+                    "score": 0.5297995
+                },
+                {
+                    "description": "artwork",
+                    "mid": "/m/0dgsmq8",
+                    "score": 0.5086761
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

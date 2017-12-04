@@ -1,0 +1,58 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.37574005126953,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 98.37574005126953,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 98.37574005126953,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 53.241580963134766,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 53.241580963134766,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 50.87794494628906,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 50.87794494628906,
+            "Name": "City"
+        },
+        {
+            "Confidence": 50.87794494628906,
+            "Name": "Metropolis"
+        },
+        {
+            "Confidence": 50.87794494628906,
+            "Name": "Town"
+        },
+        {
+            "Confidence": 50.87794494628906,
+            "Name": "Urban"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "542",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:31:28 GMT",
+            "x-amzn-requestid": "dd8aa7ee-d942-11e7-ae6d-213c28c9616d"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "dd8aa7ee-d942-11e7-ae6d-213c28c9616d",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.4816060066223145
+}

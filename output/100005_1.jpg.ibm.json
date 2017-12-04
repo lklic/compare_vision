@@ -1,0 +1,34 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "silverpoint",
+                            "score": 0.774
+                        },
+                        {
+                            "class": "foramen magnum",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.903
+                        },
+                        {
+                            "class": "sage green color",
+                            "score": 0.789
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/100005_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3628721237182617
+}

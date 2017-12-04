@@ -1,0 +1,104 @@
+{
+    "adult": {
+        "adultScore": 0.024228988215327263,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.03392253443598747
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.15625
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "people_",
+            "score": 0.60546875
+        }
+    ],
+    "color": {
+        "accentColor": "555650",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9322485164449371,
+                "text": "a person sitting posing for the camera"
+            }
+        ],
+        "tags": [
+            "text",
+            "person",
+            "book",
+            "sitting",
+            "photo",
+            "white",
+            "wearing",
+            "hat",
+            "man",
+            "black",
+            "young",
+            "front",
+            "old",
+            "posing",
+            "woman",
+            "suit",
+            "boy",
+            "top",
+            "table",
+            "holding",
+            "cake",
+            "cutting",
+            "standing",
+            "suitcase",
+            "phone",
+            "board"
+        ]
+    },
+    "faces": [
+        {
+            "age": 31,
+            "faceRectangle": {
+                "height": 130,
+                "left": 372,
+                "top": 152,
+                "width": 130
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1011,
+        "width": 768
+    },
+    "requestId": "0870da36-6769-49ad-a74d-001b8ad472cc",
+    "response_time": 2.1346261501312256,
+    "tags": [
+        {
+            "confidence": 0.9876950979232788,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9845954179763794,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9678720235824585,
+            "name": "book"
+        }
+    ]
+}

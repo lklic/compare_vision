@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.576
+                        },
+                        {
+                            "class": "celebrity",
+                            "score": 0.548,
+                            "type_hierarchy": "/person/adult/celebrity"
+                        },
+                        {
+                            "class": "adult",
+                            "score": 0.548
+                        },
+                        {
+                            "class": "person",
+                            "score": 0.556
+                        },
+                        {
+                            "class": "miniver",
+                            "score": 0.512
+                        },
+                        {
+                            "class": "living room",
+                            "score": 0.5,
+                            "type_hierarchy": "/room/living room"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "black color",
+                            "score": 1.0
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101638_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.020570993423462
+}

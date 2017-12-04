@@ -1,0 +1,61 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.909
+                        },
+                        {
+                            "class": "passe-partout (frame)",
+                            "score": 0.555,
+                            "type_hierarchy": "/supporting structure/framework/passe-partout (frame)"
+                        },
+                        {
+                            "class": "framework",
+                            "score": 0.555
+                        },
+                        {
+                            "class": "supporting structure",
+                            "score": 0.555
+                        },
+                        {
+                            "class": "ellipse",
+                            "score": 0.523,
+                            "type_hierarchy": "/figure/ellipse"
+                        },
+                        {
+                            "class": "figure",
+                            "score": 0.523
+                        },
+                        {
+                            "class": "art gallery",
+                            "score": 0.5,
+                            "type_hierarchy": "/room/art gallery"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "black color",
+                            "score": 0.886
+                        },
+                        {
+                            "class": "emerald color",
+                            "score": 0.712
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/102256_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3776569366455078
+}

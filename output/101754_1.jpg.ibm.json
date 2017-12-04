@@ -1,0 +1,44 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "gazette",
+                            "score": 0.551,
+                            "type_hierarchy": "/medium/newspaper/gazette"
+                        },
+                        {
+                            "class": "newspaper",
+                            "score": 0.832
+                        },
+                        {
+                            "class": "medium",
+                            "score": 0.832
+                        },
+                        {
+                            "class": "breviary (book)",
+                            "score": 0.522
+                        },
+                        {
+                            "class": "school newspaper",
+                            "score": 0.5,
+                            "type_hierarchy": "/medium/newspaper/school newspaper"
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.984
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101754_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.499337911605835
+}

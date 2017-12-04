@@ -1,0 +1,50 @@
+{
+    "Labels": [
+        {
+            "Confidence": 92.8429946899414,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 92.8429946899414,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 68.86478424072266,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 68.86478424072266,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 68.86478424072266,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 68.86478424072266,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 50.59364318847656,
+            "Name": "Text"
+        },
+        {
+            "Confidence": 50.56403732299805,
+            "Name": "Emblem"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "433",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:27:56 GMT",
+            "x-amzn-requestid": "6039a9a2-d942-11e7-b885-c35173bb6aa8"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "6039a9a2-d942-11e7-b885-c35173bb6aa8",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.111445903778076
+}

@@ -1,0 +1,121 @@
+{
+    "adult": {
+        "adultScore": 0.03533848375082016,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.07175713777542114
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "383834",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9323727983538352,
+                "text": "a vintage photo of a woman"
+            }
+        ],
+        "tags": [
+            "photo",
+            "person",
+            "text",
+            "old",
+            "black",
+            "white",
+            "woman",
+            "holding",
+            "vintage",
+            "girl",
+            "wearing",
+            "posing",
+            "man",
+            "young",
+            "standing",
+            "sitting",
+            "dressed",
+            "hat",
+            "people",
+            "bear",
+            "group",
+            "horse",
+            "riding",
+            "field",
+            "umbrella"
+        ]
+    },
+    "faces": [
+        {
+            "age": 38,
+            "faceRectangle": {
+                "height": 94,
+                "left": 184,
+                "top": 73,
+                "width": 94
+            },
+            "gender": "Male"
+        },
+        {
+            "age": 32,
+            "faceRectangle": {
+                "height": 78,
+                "left": 300,
+                "top": 208,
+                "width": 78
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 437
+    },
+    "requestId": "7eb54da9-8f29-4d71-afc8-a935ca9dd925",
+    "response_time": 2.0730268955230713,
+    "tags": [
+        {
+            "confidence": 0.9664061069488525,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9265215992927551,
+            "name": "text"
+        },
+        {
+            "confidence": 0.8923701643943787,
+            "name": "old"
+        },
+        {
+            "confidence": 0.8737241625785828,
+            "name": "black"
+        },
+        {
+            "confidence": 0.7916341423988342,
+            "name": "white"
+        },
+        {
+            "confidence": 0.5946237444877625,
+            "name": "vintage"
+        },
+        {
+            "confidence": 0.367184579372406,
+            "name": "posing"
+        }
+    ]
+}

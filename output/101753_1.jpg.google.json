@@ -1,0 +1,65 @@
+{
+    "response_time": 1.0769269466400146,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.85546494
+                },
+                {
+                    "description": "art",
+                    "mid": "/m/0jjw",
+                    "score": 0.7698562
+                },
+                {
+                    "description": "history",
+                    "mid": "/m/03g3w",
+                    "score": 0.7563696
+                },
+                {
+                    "description": "drawing",
+                    "mid": "/m/02csf",
+                    "score": 0.6544969
+                },
+                {
+                    "description": "illustration",
+                    "mid": "/m/01kr8f",
+                    "score": 0.59918463
+                },
+                {
+                    "description": "artwork",
+                    "mid": "/m/0dgsmq8",
+                    "score": 0.59450287
+                },
+                {
+                    "description": "visual arts",
+                    "mid": "/m/0p9xx",
+                    "score": 0.5729491
+                },
+                {
+                    "description": "monochrome",
+                    "mid": "/m/01mwkf",
+                    "score": 0.5711018
+                },
+                {
+                    "description": "monochrome photography",
+                    "mid": "/m/03d49p1",
+                    "score": 0.5151346
+                },
+                {
+                    "description": "stock photography",
+                    "mid": "/m/036jvk",
+                    "score": 0.50911576
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

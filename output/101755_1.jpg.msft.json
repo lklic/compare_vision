@@ -1,0 +1,80 @@
+{
+    "adult": {
+        "adultScore": 0.03447442129254341,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02258254960179329
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.15625
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "6B6560",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7736110170776583,
+                "text": "a painting of person"
+            }
+        ],
+        "tags": [
+            "text",
+            "photo",
+            "old",
+            "black",
+            "covered",
+            "white",
+            "double",
+            "sitting",
+            "man",
+            "painting",
+            "table",
+            "refrigerator",
+            "woman",
+            "snow",
+            "skiing",
+            "sink"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 716
+    },
+    "requestId": "8ed58417-316e-4503-b84a-31ef7ec5e64f",
+    "response_time": 2.100526809692383,
+    "tags": [
+        {
+            "confidence": 0.9802184104919434,
+            "name": "text"
+        },
+        {
+            "confidence": 0.5718695521354675,
+            "name": "old"
+        },
+        {
+            "confidence": 0.17563822865486145,
+            "name": "painting"
+        }
+    ]
+}

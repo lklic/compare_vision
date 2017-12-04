@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "burial chamber",
+                            "score": 0.864,
+                            "type_hierarchy": "/enclosure/burial chamber"
+                        },
+                        {
+                            "class": "enclosure",
+                            "score": 0.864
+                        },
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.542
+                        },
+                        {
+                            "class": "Church (Indoor)",
+                            "score": 0.5,
+                            "type_hierarchy": "/building/Church (Indoor)"
+                        },
+                        {
+                            "class": "building",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "alabaster color",
+                            "score": 0.816
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.73
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101968_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.370319128036499
+}

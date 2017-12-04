@@ -1,0 +1,118 @@
+{
+    "Labels": [
+        {
+            "Confidence": 84.5878677368164,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 84.5878677368164,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 84.5878677368164,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 84.5878677368164,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 78.29753875732422,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 78.29753875732422,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 78.29753875732422,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 72.9040298461914,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 61.95976257324219,
+            "Name": "Head"
+        },
+        {
+            "Confidence": 57.93417739868164,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 57.93417739868164,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 54.245018005371094,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 51.63521194458008,
+            "Name": "Dollar"
+        },
+        {
+            "Confidence": 51.63521194458008,
+            "Name": "Money"
+        },
+        {
+            "Confidence": 51.56398010253906,
+            "Name": "Modern Art"
+        },
+        {
+            "Confidence": 51.30460739135742,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 51.30460739135742,
+            "Name": "City"
+        },
+        {
+            "Confidence": 51.30460739135742,
+            "Name": "Metropolis"
+        },
+        {
+            "Confidence": 51.30460739135742,
+            "Name": "Town"
+        },
+        {
+            "Confidence": 51.30460739135742,
+            "Name": "Urban"
+        },
+        {
+            "Confidence": 50.75399398803711,
+            "Name": "Apostle"
+        },
+        {
+            "Confidence": 50.67503356933594,
+            "Name": "Angel"
+        },
+        {
+            "Confidence": 50.67503356933594,
+            "Name": "Archangel"
+        },
+        {
+            "Confidence": 50.67503356933594,
+            "Name": "Worship"
+        },
+        {
+            "Confidence": 50.60860061645508,
+            "Name": "People"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "1274",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Fri, 01 Dec 2017 23:07:29 GMT",
+            "x-amzn-requestid": "6766de53-d6ec-11e7-92a5-172b16d58a50"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "6766de53-d6ec-11e7-92a5-172b16d58a50",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.3515748977661133
+}

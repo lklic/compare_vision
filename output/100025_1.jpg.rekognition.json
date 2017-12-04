@@ -1,0 +1,70 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.68130493164062,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.6812744140625,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.68130493164062,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 93.82412719726562,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 80.97555541992188,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 63.43334197998047,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 63.43334197998047,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 53.774070739746094,
+            "Name": "Modern Art"
+        },
+        {
+            "Confidence": 52.15877151489258,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 51.81145095825195,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 51.81145095825195,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 51.52509307861328,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 51.52509307861328,
+            "Name": "Portrait"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "688",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:15:27 GMT",
+            "x-amzn-requestid": "a1b6dee8-d940-11e7-8107-17ba281fb2f1"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "a1b6dee8-d940-11e7-8107-17ba281fb2f1",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.322348117828369
+}

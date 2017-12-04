@@ -1,0 +1,116 @@
+{
+    "response_time": 1.0770699977874756,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "art",
+                    "mid": "/m/0jjw",
+                    "score": 0.8720477
+                },
+                {
+                    "description": "picture frame",
+                    "mid": "/m/06z37_",
+                    "score": 0.8185307
+                },
+                {
+                    "description": "history",
+                    "mid": "/m/03g3w",
+                    "score": 0.8116984
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.79527956
+                },
+                {
+                    "description": "ancient history",
+                    "mid": "/m/0djmp",
+                    "score": 0.681775
+                },
+                {
+                    "description": "modern art",
+                    "mid": "/m/015r61",
+                    "score": 0.62023634
+                },
+                {
+                    "description": "artwork",
+                    "mid": "/m/0dgsmq8",
+                    "score": 0.5957335
+                },
+                {
+                    "description": "arch",
+                    "mid": "/m/0dpvm",
+                    "score": 0.575783
+                },
+                {
+                    "description": "visual arts",
+                    "mid": "/m/0p9xx",
+                    "score": 0.5744462
+                },
+                {
+                    "description": "collection",
+                    "mid": "/m/08_4sd",
+                    "score": 0.55366194
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 80,
+                                "y": 133
+                            },
+                            {
+                                "x": 856,
+                                "y": 133
+                            },
+                            {
+                                "x": 856,
+                                "y": 624
+                            },
+                            {
+                                "x": 80,
+                                "y": 624
+                            }
+                        ]
+                    },
+                    "description": "Madonna and Child Enthroned",
+                    "mid": "/g/11cjg98vyn",
+                    "score": 0.90408355
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 80,
+                                "y": 133
+                            },
+                            {
+                                "x": 856,
+                                "y": 133
+                            },
+                            {
+                                "x": 856,
+                                "y": 624
+                            },
+                            {
+                                "x": 80,
+                                "y": 624
+                            }
+                        ]
+                    },
+                    "description": "Madonna and Child Enthroned",
+                    "score": 0.9033472
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

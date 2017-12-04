@@ -1,0 +1,117 @@
+{
+    "adult": {
+        "adultScore": 0.01842290349304676,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.019574645906686783
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "people_portrait",
+            "score": 0.6015625
+        }
+    ],
+    "color": {
+        "accentColor": "666666",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8874013520542758,
+                "text": "an old photo of a man"
+            }
+        ],
+        "tags": [
+            "man",
+            "person",
+            "text",
+            "photo",
+            "indoor",
+            "old",
+            "book",
+            "looking",
+            "window",
+            "black",
+            "monitor",
+            "staring",
+            "front",
+            "suit",
+            "wearing",
+            "white",
+            "sitting",
+            "open",
+            "screen",
+            "standing",
+            "posing",
+            "hair",
+            "older",
+            "computer",
+            "holding",
+            "room"
+        ]
+    },
+    "faces": [
+        {
+            "age": 57,
+            "faceRectangle": {
+                "height": 315,
+                "left": 155,
+                "top": 304,
+                "width": 315
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 764
+    },
+    "requestId": "cda76e2b-0a7f-4ebd-a021-f2712d06cde0",
+    "response_time": 1.895216941833496,
+    "tags": [
+        {
+            "confidence": 0.9985948204994202,
+            "name": "man"
+        },
+        {
+            "confidence": 0.9772976636886597,
+            "name": "person"
+        },
+        {
+            "confidence": 0.9662259221076965,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9290310740470886,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.918911874294281,
+            "name": "old"
+        },
+        {
+            "confidence": 0.448243111371994,
+            "name": "staring"
+        },
+        {
+            "confidence": 0.20896916091442108,
+            "name": "older"
+        }
+    ]
+}

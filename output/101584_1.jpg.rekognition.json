@@ -1,0 +1,58 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.29557037353516,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.29557037353516,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.29557037353516,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 90.69648742675781,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 85.84471130371094,
+            "Name": "Painting"
+        },
+        {
+            "Confidence": 59.96691131591797,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 59.96691131591797,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 53.834014892578125,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 53.834014892578125,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 50.9441032409668,
+            "Name": "Sculpture"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "540",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:36:47 GMT",
+            "x-amzn-requestid": "9c2c3ac5-d943-11e7-a16d-31e227cb5e2e"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "9c2c3ac5-d943-11e7-a16d-31e227cb5e2e",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.1120870113372803
+}

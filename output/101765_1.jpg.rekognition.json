@@ -1,0 +1,70 @@
+{
+    "Labels": [
+        {
+            "Confidence": 91.85443878173828,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 91.85443878173828,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 91.85443878173828,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 61.3093376159668,
+            "Name": "Bench"
+        },
+        {
+            "Confidence": 57.169979095458984,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 54.75528335571289,
+            "Name": "Chair"
+        },
+        {
+            "Confidence": 54.75528335571289,
+            "Name": "Furniture"
+        },
+        {
+            "Confidence": 54.0385856628418,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 54.0385856628418,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 54.0385856628418,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 54.0385856628418,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 50.536705017089844,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 50.536705017089844,
+            "Name": "Tapestry"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "683",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:36:17 GMT",
+            "x-amzn-requestid": "8a0614a1-d943-11e7-8f7b-4953cbe805e1"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "8a0614a1-d943-11e7-8f7b-4953cbe805e1",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.3825361728668213
+}

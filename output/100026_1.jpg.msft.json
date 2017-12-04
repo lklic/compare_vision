@@ -1,0 +1,127 @@
+{
+    "adult": {
+        "adultScore": 0.030252600088715553,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02630319632589817
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "object_sculpture",
+            "score": 0.546875
+        }
+    ],
+    "color": {
+        "accentColor": "746B57",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7455162114581356,
+                "text": "a vintage photo of a man holding a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "photo",
+            "book",
+            "old",
+            "person",
+            "black",
+            "man",
+            "white",
+            "window",
+            "sitting",
+            "posing",
+            "holding",
+            "player",
+            "vintage",
+            "woman",
+            "boy",
+            "people",
+            "baseball",
+            "young",
+            "standing",
+            "bench",
+            "group",
+            "field"
+        ]
+    },
+    "faces": [
+        {
+            "age": 30,
+            "faceRectangle": {
+                "height": 78,
+                "left": 251,
+                "top": 121,
+                "width": 78
+            },
+            "gender": "Male"
+        },
+        {
+            "age": 36,
+            "faceRectangle": {
+                "height": 45,
+                "left": 173,
+                "top": 209,
+                "width": 45
+            },
+            "gender": "Female"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 622
+    },
+    "requestId": "d98c1533-ec13-49f1-b44d-3ced8822be5a",
+    "response_time": 3.409919023513794,
+    "tags": [
+        {
+            "confidence": 0.9944895505905151,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9678995013237,
+            "name": "book"
+        },
+        {
+            "confidence": 0.8709361553192139,
+            "name": "old"
+        },
+        {
+            "confidence": 0.8429001569747925,
+            "name": "black"
+        },
+        {
+            "confidence": 0.7028316855430603,
+            "name": "white"
+        },
+        {
+            "confidence": 0.47608715295791626,
+            "name": "posing"
+        },
+        {
+            "confidence": 0.3461083471775055,
+            "name": "vintage"
+        },
+        {
+            "confidence": 0.3309325575828552,
+            "name": "image"
+        }
+    ]
+}

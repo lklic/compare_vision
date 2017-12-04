@@ -1,0 +1,74 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.13227844238281,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.13227844238281,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.13227844238281,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 91.5622329711914,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 76.94515991210938,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 76.77567291259766,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 76.77567291259766,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 68.000244140625,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 68.000244140625,
+            "Name": "Tapestry"
+        },
+        {
+            "Confidence": 51.56399154663086,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 51.56399154663086,
+            "Name": "City"
+        },
+        {
+            "Confidence": 51.56399154663086,
+            "Name": "Metropolis"
+        },
+        {
+            "Confidence": 51.56399154663086,
+            "Name": "Town"
+        },
+        {
+            "Confidence": 51.56399154663086,
+            "Name": "Urban"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "729",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:17:43 GMT",
+            "x-amzn-requestid": "f24769a6-d940-11e7-afa7-2b76c4607042"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "f24769a6-d940-11e7-afa7-2b76c4607042",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.3222570419311523
+}

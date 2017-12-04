@@ -1,0 +1,82 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.17529296875,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 99.17529296875,
+            "Name": "People"
+        },
+        {
+            "Confidence": 99.17529296875,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 69.03328704833984,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 69.03328704833984,
+            "Name": "Sculpture"
+        },
+        {
+            "Confidence": 55.50371551513672,
+            "Name": "Face"
+        },
+        {
+            "Confidence": 55.50371551513672,
+            "Name": "Portrait"
+        },
+        {
+            "Confidence": 52.050254821777344,
+            "Name": "Female"
+        },
+        {
+            "Confidence": 51.20757293701172,
+            "Name": "Angel"
+        },
+        {
+            "Confidence": 51.20757293701172,
+            "Name": "Archangel"
+        },
+        {
+            "Confidence": 51.20757293701172,
+            "Name": "Worship"
+        },
+        {
+            "Confidence": 50.93970489501953,
+            "Name": "Woman"
+        },
+        {
+            "Confidence": 50.92670822143555,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 50.92670822143555,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 50.6894416809082,
+            "Name": "Ancient Egypt"
+        },
+        {
+            "Confidence": 50.6894416809082,
+            "Name": "Anubis"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "830",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:32:54 GMT",
+            "x-amzn-requestid": "109a8e7c-d943-11e7-afa2-1345006a093c"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "109a8e7c-d943-11e7-afa2-1345006a093c",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.6613609790802
+}

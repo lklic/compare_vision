@@ -1,0 +1,65 @@
+{
+    "response_time": 1.3579249382019043,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "photograph",
+                    "mid": "/m/068jd",
+                    "score": 0.9562154
+                },
+                {
+                    "description": "vintage clothing",
+                    "mid": "/m/08v4gh",
+                    "score": 0.84616005
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.84592754
+                },
+                {
+                    "description": "art",
+                    "mid": "/m/0jjw",
+                    "score": 0.7428198
+                },
+                {
+                    "description": "human behavior",
+                    "mid": "/m/02qd0r",
+                    "score": 0.7266052
+                },
+                {
+                    "description": "poster",
+                    "mid": "/m/01n5jq",
+                    "score": 0.70259297
+                },
+                {
+                    "description": "monochrome",
+                    "mid": "/m/01mwkf",
+                    "score": 0.68849826
+                },
+                {
+                    "description": "history",
+                    "mid": "/m/03g3w",
+                    "score": 0.6867659
+                },
+                {
+                    "description": "portrait",
+                    "mid": "/m/01dv4h",
+                    "score": 0.6301775
+                },
+                {
+                    "description": "illustration",
+                    "mid": "/m/01kr8f",
+                    "score": 0.5889205
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

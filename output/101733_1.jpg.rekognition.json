@@ -1,0 +1,50 @@
+{
+    "Labels": [
+        {
+            "Confidence": 94.44062042236328,
+            "Name": "Art"
+        },
+        {
+            "Confidence": 94.44062042236328,
+            "Name": "Drawing"
+        },
+        {
+            "Confidence": 94.44062042236328,
+            "Name": "Sketch"
+        },
+        {
+            "Confidence": 59.1733512878418,
+            "Name": "Angel"
+        },
+        {
+            "Confidence": 59.1733512878418,
+            "Name": "Archangel"
+        },
+        {
+            "Confidence": 59.1733512878418,
+            "Name": "Worship"
+        },
+        {
+            "Confidence": 57.086952209472656,
+            "Name": "Ornament"
+        },
+        {
+            "Confidence": 57.086952209472656,
+            "Name": "Tapestry"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "443",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Mon, 04 Dec 2017 22:28:20 GMT",
+            "x-amzn-requestid": "6d6b809f-d942-11e7-9457-970c195ddba1"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "6d6b809f-d942-11e7-9457-970c195ddba1",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.1522700786590576
+}

@@ -1,0 +1,45 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "door",
+                            "score": 0.89,
+                            "type_hierarchy": "/room/door"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.89
+                        },
+                        {
+                            "class": "recess",
+                            "score": 0.528,
+                            "type_hierarchy": "/enclosure/recess"
+                        },
+                        {
+                            "class": "enclosure",
+                            "score": 0.781
+                        },
+                        {
+                            "class": "burial chamber",
+                            "score": 0.5,
+                            "type_hierarchy": "/enclosure/burial chamber"
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 0.6
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/103227_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3681879043579102
+}

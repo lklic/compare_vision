@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "art gallery",
+                            "score": 0.849,
+                            "type_hierarchy": "/room/art gallery"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.849
+                        },
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.839
+                        },
+                        {
+                            "class": "picture frame",
+                            "score": 0.5,
+                            "type_hierarchy": "/supporting structure/framework/picture frame"
+                        },
+                        {
+                            "class": "framework",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "supporting structure",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.808
+                        },
+                        {
+                            "class": "black color",
+                            "score": 0.546
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/100021_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.559831142425537
+}

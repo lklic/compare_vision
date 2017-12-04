@@ -1,0 +1,57 @@
+{
+    "adult": {
+        "adultScore": 0.01881258748471737,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.017452917993068695
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.234375
+        },
+        {
+            "name": "text_",
+            "score": 0.42578125
+        }
+    ],
+    "color": {
+        "accentColor": "61626A",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7580128533151455,
+                "text": "a close up of text on a white background"
+            }
+        ],
+        "tags": [
+            "text"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 747
+    },
+    "requestId": "602044bd-6e37-4921-85cd-72689433a47c",
+    "response_time": 2.3706440925598145,
+    "tags": [
+        {
+            "confidence": 0.98037189245224,
+            "name": "text"
+        }
+    ]
+}

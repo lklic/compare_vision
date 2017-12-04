@@ -1,0 +1,65 @@
+{
+    "response_time": 0.9479169845581055,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "art",
+                    "mid": "/m/0jjw",
+                    "score": 0.8911763
+                },
+                {
+                    "description": "black and white",
+                    "mid": "/m/01g6gs",
+                    "score": 0.88214755
+                },
+                {
+                    "description": "structure",
+                    "mid": "/m/0n68_",
+                    "score": 0.7869887
+                },
+                {
+                    "description": "picture frame",
+                    "mid": "/m/06z37_",
+                    "score": 0.7389549
+                },
+                {
+                    "description": "modern art",
+                    "mid": "/m/015r61",
+                    "score": 0.63967437
+                },
+                {
+                    "description": "artwork",
+                    "mid": "/m/0dgsmq8",
+                    "score": 0.6082374
+                },
+                {
+                    "description": "visual arts",
+                    "mid": "/m/0p9xx",
+                    "score": 0.5997801
+                },
+                {
+                    "description": "monochrome photography",
+                    "mid": "/m/03d49p1",
+                    "score": 0.5695943
+                },
+                {
+                    "description": "collection",
+                    "mid": "/m/08_4sd",
+                    "score": 0.5247151
+                },
+                {
+                    "description": "stock photography",
+                    "mid": "/m/036jvk",
+                    "score": 0.51525915
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

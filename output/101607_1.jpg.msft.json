@@ -1,0 +1,75 @@
+{
+    "adult": {
+        "adultScore": 0.04465557634830475,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.028783021494746208
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0234375
+        },
+        {
+            "name": "object_sculpture",
+            "score": 0.69140625
+        }
+    ],
+    "color": {
+        "accentColor": "6D6A5E",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6854417801362166,
+                "text": "a group of people standing in front of a window"
+            }
+        ],
+        "tags": [
+            "photo",
+            "building",
+            "outdoor",
+            "window",
+            "white",
+            "black",
+            "man",
+            "standing",
+            "street",
+            "people",
+            "holding",
+            "train",
+            "hanging",
+            "old",
+            "mirror",
+            "woman",
+            "umbrella",
+            "phone",
+            "group",
+            "room",
+            "city",
+            "cat",
+            "bear",
+            "riding"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 986,
+        "width": 768
+    },
+    "requestId": "41de6483-4a7f-4794-bb06-2755ae77dedb",
+    "response_time": 1.9922690391540527,
+    "tags": []
+}

@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "art gallery",
+                            "score": 0.765,
+                            "type_hierarchy": "/room/art gallery"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.765
+                        },
+                        {
+                            "class": "Museum (Indoor)",
+                            "score": 0.742
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.815
+                        },
+                        {
+                            "class": "alabaster color",
+                            "score": 0.524
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/101755_1.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6090331077575684
+}

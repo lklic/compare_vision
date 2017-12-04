@@ -1,0 +1,95 @@
+{
+    "adult": {
+        "adultScore": 0.025544866919517517,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02568504959344864
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.26953125
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "716B5A",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6353009971830125,
+                "text": "a vintage photo of person holding a book"
+            }
+        ],
+        "tags": [
+            "text",
+            "book",
+            "photo",
+            "old",
+            "man",
+            "black",
+            "woman",
+            "vintage",
+            "white",
+            "sitting",
+            "posing",
+            "holding",
+            "people",
+            "standing",
+            "bear",
+            "player"
+        ]
+    },
+    "faces": [
+        {
+            "age": 35,
+            "faceRectangle": {
+                "height": 66,
+                "left": 191,
+                "top": 462,
+                "width": 66
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1024,
+        "width": 704
+    },
+    "requestId": "08626ffc-895c-48fe-a2f1-718bd07951db",
+    "response_time": 2.2021470069885254,
+    "tags": [
+        {
+            "confidence": 0.9999768733978271,
+            "name": "text"
+        },
+        {
+            "confidence": 0.9993197917938232,
+            "name": "book"
+        },
+        {
+            "confidence": 0.9137352705001831,
+            "name": "old"
+        },
+        {
+            "confidence": 0.5073332190513611,
+            "name": "vintage"
+        }
+    ]
+}
