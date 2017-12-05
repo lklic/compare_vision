@@ -30,7 +30,7 @@ def settings(name):
             'input_images_dir' : 'input_images',
             'output_dir' : 'output',
             'static_dir' : 'static',
-            'output_image_height' : 200,
+            'output_image_height' : 600,
             'vendors' : {
                 'google' : vendors.google,
                 'msft' : vendors.microsoft,

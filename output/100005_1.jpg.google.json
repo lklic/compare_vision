@@ -1,5 +1,5 @@
 {
-    "response_time": 1.035891056060791,
+    "response_time": 3.336897850036621,
     "responses": [
         {
             "labelAnnotations": [
@@ -41,17 +41,17 @@
                 {
                     "description": "sketch",
                     "mid": "/m/07glzq",
-                    "score": 0.6440796
+                    "score": 0.64407957
                 },
                 {
                     "description": "history",
                     "mid": "/m/03g3w",
-                    "score": 0.63187915
+                    "score": 0.6318793
                 },
                 {
                     "description": "portrait",
                     "mid": "/m/01dv4h",
-                    "score": 0.61568666
+                    "score": 0.6156868
                 }
             ],
             "logoAnnotations": [

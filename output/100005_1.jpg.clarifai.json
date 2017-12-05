@@ -1,7 +1,7 @@
 {
     "outputs": [
         {
-            "created_at": "2017-12-04T22:16:15.830947072Z",
+            "created_at": "2017-12-05T20:08:35.438090064Z",
             "data": {
                 "concepts": [
                     {
@@ -126,15 +126,15 @@
                     }
                 ]
             },
-            "id": "ab51e8a19a154d85a6dc3cfc8a7f1a87",
+            "id": "e161c4436b074c5a8b39de3ab44ea594",
             "input": {
                 "data": {
                     "image": {
                         "base64": "true",
-                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d3622bd03dd84b6aa6b3e216d3e5bcd2/af7496907d8b4e94b8821c8a22b6ba98"
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d3622bd03dd84b6aa6b3e216d3e5bcd2/dc23d1e13a744d5997e4a28c93950b86"
                     }
                 },
-                "id": "e3bd511a85ec4ad0932e5e97c89790c0"
+                "id": "d1ce10d840bd40c5865286f3e72fd539"
             },
             "model": {
                 "app_id": "main",
@@ -162,7 +162,7 @@
             }
         }
     ],
-    "response_time": 2.1673240661621094,
+    "response_time": 8.049308776855469,
     "status": {
         "code": 10000,
         "description": "Ok"
